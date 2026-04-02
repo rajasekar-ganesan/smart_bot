@@ -1,1 +1,10 @@
+.env
+faiss_index/
+__pycache__/
+smartbot/
+*.pyc
 
+
+*.log
+.DS_Store
+.vscode/
